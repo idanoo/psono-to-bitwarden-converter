@@ -71,7 +71,7 @@ foreach ($items as $item) {
         '',
         $item['website_password_url'] ?? '',
         $item['website_password_username'] ?? '',
-        $item['login_password_password'] ?? '',
+        $item['website_password_password'] ?? '',
         ''
     ];
 
